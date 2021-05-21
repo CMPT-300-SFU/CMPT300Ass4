@@ -1,1 +1,2 @@
-# LS Command for Terminal
+# MyLS
+Command for Terminal
