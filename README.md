@@ -1,1 +1,1 @@
-# LS Command in Terminal
+# LS Command for Terminal
